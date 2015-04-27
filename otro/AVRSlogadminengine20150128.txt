@@ -1,0 +1,1069 @@
+28/01/2015 8:40:25-Iniciando LogIn
+28/01/2015 8:40:25-Logging of user: yruiza pass: 41F6E8B589D6D47CC56937FF17C493F5
+28/01/2015 8:40:25-Loading Persistent Cats
+28/01/2015 8:40:25-Getting Session
+28/01/2015 8:40:25-Retrieving menu info
+28/01/2015 8:40:26-System.String[]
+28/01/2015 8:40:26-Adding Session id
+28/01/2015 8:40:26-done
+28/01/2015 8:45:19-Recibiendo peticion 119
+28/01/2015 8:45:19-SupId 38
+28/01/2015 8:45:19-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 8:45:19-exec trsp_AdmGetPathsBackup 
+28/01/2015 8:45:20-exec trsp_GetEncryptValue 
+28/01/2015 8:45:29-Recibiendo peticion 120
+28/01/2015 8:45:29-SupId 38 , InitialDate 27/01/2015 , FinalDate 28/01/2015
+28/01/2015 8:45:29-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 8:45:29-exec trsp_AdmGetPathsBackup 
+28/01/2015 8:45:29-SQLQuery for Rec Search: exec dbo.trsp_AdmRecSearchAllRecs 38, '20150127 00:00', '20150128 23:59'
+28/01/2015 8:45:29-exec trsp_GetEncryptValue 
+28/01/2015 8:45:32-Recibiendo peticion 144
+28/01/2015 8:45:32-Enters VerifyMarksToExport
+28/01/2015 8:45:32-Searching for marks
+28/01/2015 8:45:32-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24027, 1
+28/01/2015 8:45:32-No marks
+28/01/2015 8:45:36-Recibiendo peticion 128
+28/01/2015 8:45:36-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 8:45:36-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24027.wav
+28/01/2015 8:45:36-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 8:45:36-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 38
+28/01/2015 8:45:36-Processing Recordings . . . 
+28/01/2015 8:45:36-Number of recordings that going to be process: 1
+28/01/2015 8:45:36-Number of elements that going to be cut: 0
+28/01/2015 8:45:36-Enter export without Export Profile.
+28/01/2015 8:45:36-Prepare recording without cut from mark.
+28/01/2015 8:45:36-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24027.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\38\I_24027.wav.
+28/01/2015 8:45:36-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 8:45:37-Primera vez------------------------------
+28/01/2015 8:45:37-Get Available disk space
+28/01/2015 8:45:37-Volume: D:\
+28/01/2015 8:45:37-Free space: 114076786688
+28/01/2015 8:45:37-Recibiendo peticion 128
+28/01/2015 8:45:37-Constructor 
+28/01/2015 8:45:37-Make recording zip
+28/01/2015 8:45:37-Write summary AVRSExportRecs.txt
+28/01/2015 8:45:37-The recordig zip process has finished
+28/01/2015 9:09:01-Iniciando LogIn
+28/01/2015 9:09:01-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 9:09:01-Loading Persistent Cats
+28/01/2015 9:09:01-Getting Session
+28/01/2015 9:09:01-Retrieving menu info
+28/01/2015 9:09:01-System.String[]
+28/01/2015 9:09:01-Adding Session id
+28/01/2015 9:09:01-done
+28/01/2015 9:32:27-Iniciando LogIn
+28/01/2015 9:32:27-Logging of user: yruiza pass: 41F6E8B589D6D47CC56937FF17C493F5
+28/01/2015 9:32:27-Loading Persistent Cats
+28/01/2015 9:32:27-Getting Session
+28/01/2015 9:32:27-Retrieving menu info
+28/01/2015 9:32:27-System.String[]
+28/01/2015 9:32:27-Adding Session id
+28/01/2015 9:32:27-done
+28/01/2015 9:56:44-Iniciando LogIn
+28/01/2015 9:56:44-Logging of user: admin pass: 81DC9BDB52D04DC20036DBD8313ED055
+28/01/2015 9:56:44-Loading Persistent Cats
+28/01/2015 9:56:44-Getting Session
+28/01/2015 9:56:44-Retrieving menu info
+28/01/2015 9:56:44-System.String[]
+28/01/2015 9:56:44-Adding Session id
+28/01/2015 9:56:44-done
+28/01/2015 10:15:13-Recibiendo peticion 119
+28/01/2015 10:15:13-SupId 38
+28/01/2015 10:15:13-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 10:15:13-exec trsp_AdmGetPathsBackup 
+28/01/2015 10:15:13-exec trsp_GetEncryptValue 
+28/01/2015 10:15:18-Recibiendo peticion 144
+28/01/2015 10:15:18-Enters VerifyMarksToExport
+28/01/2015 10:15:18-Searching for marks
+28/01/2015 10:15:18-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24117, 1
+28/01/2015 10:15:18-No marks
+28/01/2015 10:15:19-Recibiendo peticion 128
+28/01/2015 10:15:19-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 10:15:19-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24117.wav
+28/01/2015 10:15:19-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 10:15:19-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 38
+28/01/2015 10:15:19-Processing Recordings . . . 
+28/01/2015 10:15:19-Number of recordings that going to be process: 1
+28/01/2015 10:15:19-Number of elements that going to be cut: 0
+28/01/2015 10:15:19-Enter export without Export Profile.
+28/01/2015 10:15:19-Prepare recording without cut from mark.
+28/01/2015 10:15:19-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24117.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\38\I_24117.wav.
+28/01/2015 10:15:19-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 10:15:19-Primera vez------------------------------
+28/01/2015 10:15:19-Get Available disk space
+28/01/2015 10:15:19-Volume: D:\
+28/01/2015 10:15:19-Free space: 114014449664
+28/01/2015 10:15:19-Recibiendo peticion 128
+28/01/2015 10:15:19-Constructor 
+28/01/2015 10:15:19-Make recording zip
+28/01/2015 10:15:19-Write summary AVRSExportRecs.txt
+28/01/2015 10:15:20-The recordig zip process has finished
+28/01/2015 10:15:34-Iniciando LogIn
+28/01/2015 10:15:34-Logging of user: yruiza pass: 41F6E8B589D6D47CC56937FF17C493F5
+28/01/2015 10:15:34-Loading Persistent Cats
+28/01/2015 10:15:34-Getting Session
+28/01/2015 10:15:34-Retrieving menu info
+28/01/2015 10:15:34-System.String[]
+28/01/2015 10:15:34-Adding Session id
+28/01/2015 10:15:34-done
+28/01/2015 10:15:38-Recibiendo peticion 119
+28/01/2015 10:15:38-SupId 38
+28/01/2015 10:15:38-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 10:15:38-exec trsp_AdmGetPathsBackup 
+28/01/2015 10:15:38-exec trsp_GetEncryptValue 
+28/01/2015 10:16:45-Iniciando LogIn
+28/01/2015 10:16:45-Logging of user: ctorres pass: E6188A440B706782B4AB93821E95D9C7
+28/01/2015 10:16:45-Loading Persistent Cats
+28/01/2015 10:16:45-Getting Session
+28/01/2015 10:16:45-Retrieving menu info
+28/01/2015 10:16:45-System.String[]
+28/01/2015 10:16:45-Adding Session id
+28/01/2015 10:16:45-done
+28/01/2015 10:29:20-Iniciando LogIn
+28/01/2015 10:29:20-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 10:29:20-Loading Persistent Cats
+28/01/2015 10:29:20-Getting Session
+28/01/2015 10:29:20-Retrieving menu info
+28/01/2015 10:29:20-System.String[]
+28/01/2015 10:29:20-Adding Session id
+28/01/2015 10:29:20-done
+28/01/2015 10:41:51-Iniciando LogIn
+28/01/2015 10:41:51-Logging of user: xsanchez pass: 9AC21ED8500491A3CE8701A9C042CD85
+28/01/2015 10:41:51-Loading Persistent Cats
+28/01/2015 10:41:51-Getting Session
+28/01/2015 10:41:51-Retrieving menu info
+28/01/2015 10:41:51-System.String[]
+28/01/2015 10:41:51-Adding Session id
+28/01/2015 10:41:51-done
+28/01/2015 10:41:53-Recibiendo peticion 119
+28/01/2015 10:41:53-SupId 27
+28/01/2015 10:41:53-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 10:41:53-exec trsp_AdmGetPathsBackup 
+28/01/2015 10:41:53-exec trsp_GetEncryptValue 
+28/01/2015 10:42:04-Recibiendo peticion 120
+28/01/2015 10:42:04-SupId 27 , InitialDate 13/01/2015 , FinalDate 15/01/2015
+28/01/2015 10:42:04-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 10:42:04-exec trsp_AdmGetPathsBackup 
+28/01/2015 10:42:04-SQLQuery for Rec Search: exec dbo.trsp_AdmRecSearchAllRecs 27, '20150113 00:00', '20150115 23:59'
+28/01/2015 10:42:04-exec trsp_GetEncryptValue 
+28/01/2015 10:42:15-Recibiendo peticion 144
+28/01/2015 10:42:15-Enters VerifyMarksToExport
+28/01/2015 10:42:15-Searching for marks
+28/01/2015 10:42:15-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 161961, 2
+28/01/2015 10:42:15-No marks
+28/01/2015 10:42:18-Recibiendo peticion 128
+28/01/2015 10:42:18-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 10:42:18-Recordings string: \\192.10.10.201\Recordings\Outbound\16\O_161961.wav
+28/01/2015 10:42:18-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 10:42:18-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 27
+28/01/2015 10:42:18-Processing Recordings . . . 
+28/01/2015 10:42:18-Number of recordings that going to be process: 1
+28/01/2015 10:42:18-Number of elements that going to be cut: 0
+28/01/2015 10:42:18-Enter export without Export Profile.
+28/01/2015 10:42:18-Prepare recording without cut from mark.
+28/01/2015 10:42:18-Copy recording from \\192.10.10.201\Recordings\Outbound\16\O_161961.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\27\O_161961.wav.
+28/01/2015 10:42:18-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 10:42:18-Primera vez------------------------------
+28/01/2015 10:42:18-Get Available disk space
+28/01/2015 10:42:18-Volume: D:\
+28/01/2015 10:42:18-Free space: 114005000192
+28/01/2015 10:42:18-Recibiendo peticion 128
+28/01/2015 10:42:18-Constructor 
+28/01/2015 10:42:18-Make recording zip
+28/01/2015 10:42:18-Write summary AVRSExportRecs.txt
+28/01/2015 10:42:18-The recordig zip process has finished
+28/01/2015 10:42:51-Iniciando LogIn
+28/01/2015 10:42:51-Logging of user: ctorres pass: E6188A440B706782B4AB93821E95D9C7
+28/01/2015 10:42:51-Loading Persistent Cats
+28/01/2015 10:42:51-Getting Session
+28/01/2015 10:42:51-Retrieving menu info
+28/01/2015 10:42:51-System.String[]
+28/01/2015 10:42:51-Adding Session id
+28/01/2015 10:42:51-done
+28/01/2015 11:02:01-Iniciando LogIn
+28/01/2015 11:02:01-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:02:01-Loading Persistent Cats
+28/01/2015 11:02:01-Getting Session
+28/01/2015 11:02:01-Retrieving menu info
+28/01/2015 11:02:01-System.String[]
+28/01/2015 11:02:01-Adding Session id
+28/01/2015 11:02:01-done
+28/01/2015 11:40:38-Iniciando LogIn
+28/01/2015 11:40:38-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:40:38-Loading Persistent Cats
+28/01/2015 11:40:39-Getting Session
+28/01/2015 11:40:39-Retrieving menu info
+28/01/2015 11:40:39-System.String[]
+28/01/2015 11:40:39-Adding Session id
+28/01/2015 11:40:39-done
+28/01/2015 11:40:49-Recibiendo peticion 119
+28/01/2015 11:40:49-SupId 1
+28/01/2015 11:40:49-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 11:40:49-exec trsp_AdmGetPathsBackup 
+28/01/2015 11:40:49-exec trsp_GetEncryptValue 
+28/01/2015 11:41:07-Recibiendo peticion 144
+28/01/2015 11:41:07-Enters VerifyMarksToExport
+28/01/2015 11:41:07-Searching for marks
+28/01/2015 11:41:07-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 11:41:07-No marks
+28/01/2015 11:41:11-Recibiendo peticion 128
+28/01/2015 11:41:11-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 11:41:11-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 11:41:11-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 11:41:11-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 11:41:11-Processing Recordings . . . 
+28/01/2015 11:41:11-Number of recordings that going to be process: 1
+28/01/2015 11:41:11-Number of elements that going to be cut: 0
+28/01/2015 11:41:11-Enter export without Export Profile.
+28/01/2015 11:41:11-Prepare recording without cut from mark.
+28/01/2015 11:41:11-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 11:41:11-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 11:41:11-Primera vez------------------------------
+28/01/2015 11:41:11-Get Available disk space
+28/01/2015 11:41:11-Volume: D:\
+28/01/2015 11:41:11-Free space: 113918001152
+28/01/2015 11:41:11-Recibiendo peticion 128
+28/01/2015 11:41:11-Constructor 
+28/01/2015 11:41:11-Make recording zip
+28/01/2015 11:41:11-Write summary AVRSExportRecs.txt
+28/01/2015 11:41:11-The recordig zip process has finished
+28/01/2015 11:42:59-Iniciando LogIn
+28/01/2015 11:42:59-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:42:59-Loading Persistent Cats
+28/01/2015 11:42:59-Getting Session
+28/01/2015 11:42:59-Retrieving menu info
+28/01/2015 11:42:59-System.String[]
+28/01/2015 11:42:59-Adding Session id
+28/01/2015 11:42:59-done
+28/01/2015 11:43:00-Iniciando LogIn
+28/01/2015 11:43:00-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:43:00-Loading Persistent Cats
+28/01/2015 11:43:00-Getting Session
+28/01/2015 11:43:00-Retrieving menu info
+28/01/2015 11:43:00-System.String[]
+28/01/2015 11:43:00-Adding Session id
+28/01/2015 11:43:00-done
+28/01/2015 11:43:06-Recibiendo peticion 119
+28/01/2015 11:43:06-SupId 1
+28/01/2015 11:43:06-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 11:43:06-exec trsp_AdmGetPathsBackup 
+28/01/2015 11:43:06-exec trsp_GetEncryptValue 
+28/01/2015 11:43:28-Recibiendo peticion 144
+28/01/2015 11:43:28-Enters VerifyMarksToExport
+28/01/2015 11:43:28-Searching for marks
+28/01/2015 11:43:28-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 11:43:28-No marks
+28/01/2015 11:43:31-Recibiendo peticion 128
+28/01/2015 11:43:31-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 11:43:31-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 11:43:31-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 11:43:31-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 11:43:31-Processing Recordings . . . 
+28/01/2015 11:43:31-Number of recordings that going to be process: 1
+28/01/2015 11:43:31-Number of elements that going to be cut: 0
+28/01/2015 11:43:31-Enter export without Export Profile.
+28/01/2015 11:43:31-Prepare recording without cut from mark.
+28/01/2015 11:43:31-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 11:43:31-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 11:43:31-Primera vez------------------------------
+28/01/2015 11:43:31-Get Available disk space
+28/01/2015 11:43:31-Volume: D:\
+28/01/2015 11:43:31-Free space: 113914867712
+28/01/2015 11:43:31-Recibiendo peticion 128
+28/01/2015 11:43:31-Constructor 
+28/01/2015 11:43:31-Make recording zip
+28/01/2015 11:43:31-Write summary AVRSExportRecs.txt
+28/01/2015 11:43:32-The recordig zip process has finished
+28/01/2015 11:45:33-Iniciando LogIn
+28/01/2015 11:45:33-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:45:33-Loading Persistent Cats
+28/01/2015 11:45:33-Getting Session
+28/01/2015 11:45:33-Retrieving menu info
+28/01/2015 11:45:34-System.String[]
+28/01/2015 11:45:34-Adding Session id
+28/01/2015 11:45:34-done
+28/01/2015 11:45:43-Recibiendo peticion 119
+28/01/2015 11:45:43-SupId 1
+28/01/2015 11:45:43-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 11:45:43-exec trsp_AdmGetPathsBackup 
+28/01/2015 11:45:43-exec trsp_GetEncryptValue 
+28/01/2015 11:53:58-Recibiendo peticion 144
+28/01/2015 11:53:58-Enters VerifyMarksToExport
+28/01/2015 11:53:58-Searching for marks
+28/01/2015 11:53:58-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24107, 1
+28/01/2015 11:53:58-No marks
+28/01/2015 11:54:01-Recibiendo peticion 128
+28/01/2015 11:54:01-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 11:54:01-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24107.wav
+28/01/2015 11:54:01-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 11:54:01-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 11:54:01-Processing Recordings . . . 
+28/01/2015 11:54:01-Number of recordings that going to be process: 1
+28/01/2015 11:54:01-Number of elements that going to be cut: 0
+28/01/2015 11:54:01-Enter export without Export Profile.
+28/01/2015 11:54:01-Prepare recording without cut from mark.
+28/01/2015 11:54:01-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24107.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24107.wav.
+28/01/2015 11:54:01-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 11:54:01-Primera vez------------------------------
+28/01/2015 11:54:01-Get Available disk space
+28/01/2015 11:54:01-Volume: D:\
+28/01/2015 11:54:01-Free space: 113893199872
+28/01/2015 11:54:01-Recibiendo peticion 128
+28/01/2015 11:54:01-Constructor 
+28/01/2015 11:54:01-Make recording zip
+28/01/2015 11:54:01-Write summary AVRSExportRecs.txt
+28/01/2015 11:54:02-The recordig zip process has finished
+28/01/2015 11:56:29-Iniciando LogIn
+28/01/2015 11:56:29-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 11:56:29-Loading Persistent Cats
+28/01/2015 11:56:29-Getting Session
+28/01/2015 11:56:29-Retrieving menu info
+28/01/2015 11:56:29-System.String[]
+28/01/2015 11:56:29-Adding Session id
+28/01/2015 11:56:29-done
+28/01/2015 11:56:36-Recibiendo peticion 119
+28/01/2015 11:56:36-SupId 1
+28/01/2015 11:56:36-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 11:56:36-exec trsp_AdmGetPathsBackup 
+28/01/2015 11:56:36-exec trsp_GetEncryptValue 
+28/01/2015 11:56:41-Recibiendo peticion 144
+28/01/2015 11:56:41-Enters VerifyMarksToExport
+28/01/2015 11:56:41-Searching for marks
+28/01/2015 11:56:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 11:56:41-No marks
+28/01/2015 11:56:43-Recibiendo peticion 128
+28/01/2015 11:56:43-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 11:56:43-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 11:56:43-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 11:56:43-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 11:56:43-Processing Recordings . . . 
+28/01/2015 11:56:43-Number of recordings that going to be process: 1
+28/01/2015 11:56:43-Number of elements that going to be cut: 0
+28/01/2015 11:56:43-Enter export without Export Profile.
+28/01/2015 11:56:43-Prepare recording without cut from mark.
+28/01/2015 11:56:43-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 11:56:43-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 11:56:43-Primera vez------------------------------
+28/01/2015 11:56:43-Get Available disk space
+28/01/2015 11:56:43-Volume: D:\
+28/01/2015 11:56:43-Free space: 113886797824
+28/01/2015 11:56:43-Recibiendo peticion 128
+28/01/2015 11:56:43-Constructor 
+28/01/2015 11:56:43-Make recording zip
+28/01/2015 11:56:43-Write summary AVRSExportRecs.txt
+28/01/2015 11:56:43-The recordig zip process has finished
+28/01/2015 12:01:20-Iniciando LogIn
+28/01/2015 12:01:20-Logging of user: ctorres pass: E6188A440B706782B4AB93821E95D9C7
+28/01/2015 12:01:20-Loading Persistent Cats
+28/01/2015 12:01:20-Getting Session
+28/01/2015 12:01:20-Retrieving menu info
+28/01/2015 12:01:20-System.String[]
+28/01/2015 12:01:20-Adding Session id
+28/01/2015 12:01:20-done
+28/01/2015 12:01:34-Iniciando LogIn
+28/01/2015 12:01:34-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 12:01:34-Loading Persistent Cats
+28/01/2015 12:01:34-Getting Session
+28/01/2015 12:01:34-Retrieving menu info
+28/01/2015 12:01:34-System.String[]
+28/01/2015 12:01:34-Adding Session id
+28/01/2015 12:01:34-done
+28/01/2015 12:01:41-Recibiendo peticion 119
+28/01/2015 12:01:41-SupId 1
+28/01/2015 12:01:41-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 12:01:41-exec trsp_AdmGetPathsBackup 
+28/01/2015 12:01:41-exec trsp_GetEncryptValue 
+28/01/2015 12:01:48-Recibiendo peticion 144
+28/01/2015 12:01:48-Enters VerifyMarksToExport
+28/01/2015 12:01:48-Searching for marks
+28/01/2015 12:01:48-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 12:01:48-No marks
+28/01/2015 12:01:50-Recibiendo peticion 128
+28/01/2015 12:01:50-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 12:01:50-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 12:01:50-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 12:01:50-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:01:50-Processing Recordings . . . 
+28/01/2015 12:01:50-Number of recordings that going to be process: 1
+28/01/2015 12:01:50-Number of elements that going to be cut: 0
+28/01/2015 12:01:50-Enter export without Export Profile.
+28/01/2015 12:01:50-Prepare recording without cut from mark.
+28/01/2015 12:01:50-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 12:01:50-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:01:50-Primera vez------------------------------
+28/01/2015 12:01:50-Get Available disk space
+28/01/2015 12:01:50-Volume: D:\
+28/01/2015 12:01:50-Free space: 113877463040
+28/01/2015 12:01:51-Recibiendo peticion 128
+28/01/2015 12:01:51-Constructor 
+28/01/2015 12:01:51-Make recording zip
+28/01/2015 12:01:51-Write summary AVRSExportRecs.txt
+28/01/2015 12:01:51-The recordig zip process has finished
+28/01/2015 12:04:12-Iniciando LogIn
+28/01/2015 12:04:12-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 12:04:12-Loading Persistent Cats
+28/01/2015 12:04:12-Getting Session
+28/01/2015 12:04:12-Retrieving menu info
+28/01/2015 12:04:12-System.String[]
+28/01/2015 12:04:12-Adding Session id
+28/01/2015 12:04:12-done
+28/01/2015 12:04:21-Recibiendo peticion 119
+28/01/2015 12:04:21-SupId 1
+28/01/2015 12:04:21-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 12:04:21-exec trsp_AdmGetPathsBackup 
+28/01/2015 12:04:21-exec trsp_GetEncryptValue 
+28/01/2015 12:04:26-Recibiendo peticion 144
+28/01/2015 12:04:26-Enters VerifyMarksToExport
+28/01/2015 12:04:26-Searching for marks
+28/01/2015 12:04:26-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 12:04:26-No marks
+28/01/2015 12:04:28-Recibiendo peticion 128
+28/01/2015 12:04:28-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 12:04:28-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 12:04:28-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 12:04:28-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:04:28-Processing Recordings . . . 
+28/01/2015 12:04:28-Number of recordings that going to be process: 1
+28/01/2015 12:04:28-Number of elements that going to be cut: 0
+28/01/2015 12:04:28-Enter export without Export Profile.
+28/01/2015 12:04:28-Prepare recording without cut from mark.
+28/01/2015 12:04:28-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 12:04:28-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:04:28-Primera vez------------------------------
+28/01/2015 12:04:28-Get Available disk space
+28/01/2015 12:04:28-Volume: D:\
+28/01/2015 12:04:28-Free space: 113872924672
+28/01/2015 12:04:28-Recibiendo peticion 128
+28/01/2015 12:04:28-Constructor 
+28/01/2015 12:04:28-Make recording zip
+28/01/2015 12:04:28-Write summary AVRSExportRecs.txt
+28/01/2015 12:04:28-The recordig zip process has finished
+28/01/2015 12:06:26-Iniciando LogIn
+28/01/2015 12:06:26-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 12:06:26-Loading Persistent Cats
+28/01/2015 12:06:26-Getting Session
+28/01/2015 12:06:26-Retrieving menu info
+28/01/2015 12:06:26-System.String[]
+28/01/2015 12:06:26-Adding Session id
+28/01/2015 12:06:26-done
+28/01/2015 12:06:34-Recibiendo peticion 119
+28/01/2015 12:06:34-SupId 1
+28/01/2015 12:06:34-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 12:06:34-exec trsp_AdmGetPathsBackup 
+28/01/2015 12:06:34-exec trsp_GetEncryptValue 
+28/01/2015 12:06:40-Recibiendo peticion 144
+28/01/2015 12:06:40-Enters VerifyMarksToExport
+28/01/2015 12:06:40-Searching for marks
+28/01/2015 12:06:40-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24107, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24108, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24109, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24110, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24111, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24158, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24159, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24160, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24162, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24163, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24164, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24147, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24151, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24152, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24153, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24154, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24155, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24141, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24142, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24143, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24144, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24145, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24146, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24134, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24135, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24137, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24138, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24139, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24140, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24127, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24128, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24129, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24130, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24132, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24133, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24119, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24121, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24122, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24123, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24125, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24126, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24113, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24114, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24115, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24116, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24117, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24118, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170639, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170639, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170640, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170640, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170642, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170642, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170644, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170644, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170686, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170686, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170694, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170694, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170719, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170719, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170762, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170762, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24112, 1
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170689, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170689, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170689, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170692, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170692, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170692, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170741, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170741, 2
+28/01/2015 12:06:41-Searching for marks
+28/01/2015 12:06:41-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 170741, 2
+28/01/2015 12:06:41-No marks
+28/01/2015 12:06:44-Recibiendo peticion 128
+28/01/2015 12:06:44-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 12:06:44-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav|\\192.10.10.201\Recordings\Inbound\2\I_24107.wav|\\192.10.10.201\Recordings\Inbound\2\I_24108.wav|\\192.10.10.201\Recordings\Inbound\2\I_24109.wav|\\192.10.10.201\Recordings\Inbound\2\I_24110.wav|\\192.10.10.201\Recordings\Inbound\2\I_24111.wav|\\192.10.10.201\Recordings\Inbound\2\I_24158.wav|\\192.10.10.201\Recordings\Inbound\2\I_24159.wav|\\192.10.10.201\Recordings\Inbound\2\I_24160.wav|\\192.10.10.201\Recordings\Inbound\2\I_24162.wav|\\192.10.10.201\Recordings\Inbound\2\I_24163.wav
+28/01/2015 12:06:44-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:44-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:44-Processing Recordings . . . 
+28/01/2015 12:06:44-Number of recordings that going to be process: 11
+28/01/2015 12:06:44-Number of elements that going to be cut: 0
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24107.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24107.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24108.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24108.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24109.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24109.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24110.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24110.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24111.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24111.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24158.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24158.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24159.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24159.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24160.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24160.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24162.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24162.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24163.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24163.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Primera vez------------------------------
+28/01/2015 12:06:44-Get Available disk space
+28/01/2015 12:06:44-Volume: D:\
+28/01/2015 12:06:44-Free space: 113845641216
+28/01/2015 12:06:44-Recibiendo peticion 128
+28/01/2015 12:06:44-Constructor 
+28/01/2015 12:06:44-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24164.wav|\\192.10.10.201\Recordings\Inbound\2\I_24147.wav|\\192.10.10.201\Recordings\Inbound\2\I_24151.wav|\\192.10.10.201\Recordings\Inbound\2\I_24152.wav|\\192.10.10.201\Recordings\Inbound\2\I_24153.wav|\\192.10.10.201\Recordings\Inbound\2\I_24154.wav|\\192.10.10.201\Recordings\Inbound\2\I_24155.wav|\\192.10.10.201\Recordings\Inbound\2\I_24141.wav|\\192.10.10.201\Recordings\Inbound\2\I_24142.wav|\\192.10.10.201\Recordings\Inbound\2\I_24143.wav|\\192.10.10.201\Recordings\Inbound\2\I_24144.wav
+28/01/2015 12:06:44-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:44-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:44-Processing Recordings . . . 
+28/01/2015 12:06:44-Number of recordings that going to be process: 11
+28/01/2015 12:06:44-Number of elements that going to be cut: 0
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24164.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24164.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24147.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24147.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24151.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24151.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24152.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24152.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24153.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24153.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24154.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24154.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24155.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24155.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24141.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24141.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24142.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24142.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24143.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24143.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24144.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24144.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Get Available disk space
+28/01/2015 12:06:44-Volume: D:\
+28/01/2015 12:06:44-Free space: 113821573120
+28/01/2015 12:06:44-Recibiendo peticion 128
+28/01/2015 12:06:44-Constructor 
+28/01/2015 12:06:44-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24145.wav|\\192.10.10.201\Recordings\Inbound\2\I_24146.wav|\\192.10.10.201\Recordings\Inbound\2\I_24134.wav|\\192.10.10.201\Recordings\Inbound\2\I_24135.wav|\\192.10.10.201\Recordings\Inbound\2\I_24137.wav|\\192.10.10.201\Recordings\Inbound\2\I_24138.wav|\\192.10.10.201\Recordings\Inbound\2\I_24139.wav|\\192.10.10.201\Recordings\Inbound\2\I_24140.wav|\\192.10.10.201\Recordings\Inbound\2\I_24127.wav|\\192.10.10.201\Recordings\Inbound\2\I_24128.wav|\\192.10.10.201\Recordings\Inbound\2\I_24129.wav
+28/01/2015 12:06:44-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:44-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:44-Processing Recordings . . . 
+28/01/2015 12:06:44-Number of recordings that going to be process: 11
+28/01/2015 12:06:44-Number of elements that going to be cut: 0
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24145.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24145.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24146.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24146.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24134.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24134.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24135.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24135.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24137.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24137.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24138.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24138.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24139.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24139.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24140.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24140.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24127.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24127.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24128.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24128.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Enter export without Export Profile.
+28/01/2015 12:06:44-Prepare recording without cut from mark.
+28/01/2015 12:06:44-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24129.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24129.wav.
+28/01/2015 12:06:44-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:44-Get Available disk space
+28/01/2015 12:06:44-Volume: D:\
+28/01/2015 12:06:44-Free space: 113812561920
+28/01/2015 12:06:45-Recibiendo peticion 128
+28/01/2015 12:06:45-Constructor 
+28/01/2015 12:06:45-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24130.wav|\\192.10.10.201\Recordings\Inbound\2\I_24132.wav|\\192.10.10.201\Recordings\Inbound\2\I_24133.wav|\\192.10.10.201\Recordings\Inbound\2\I_24119.wav|\\192.10.10.201\Recordings\Inbound\2\I_24121.wav|\\192.10.10.201\Recordings\Inbound\2\I_24122.wav|\\192.10.10.201\Recordings\Inbound\2\I_24123.wav|\\192.10.10.201\Recordings\Inbound\2\I_24125.wav|\\192.10.10.201\Recordings\Inbound\2\I_24126.wav|\\192.10.10.201\Recordings\Inbound\2\I_24113.wav|\\192.10.10.201\Recordings\Inbound\2\I_24114.wav
+28/01/2015 12:06:45-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:45-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:45-Processing Recordings . . . 
+28/01/2015 12:06:45-Number of recordings that going to be process: 11
+28/01/2015 12:06:45-Number of elements that going to be cut: 0
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24130.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24130.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24132.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24132.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24133.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24133.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24119.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24119.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24121.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24121.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24122.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24122.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24123.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24123.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24125.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24125.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24126.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24126.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24113.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24113.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24114.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24114.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Get Available disk space
+28/01/2015 12:06:45-Volume: D:\
+28/01/2015 12:06:45-Free space: 113791692800
+28/01/2015 12:06:45-Recibiendo peticion 128
+28/01/2015 12:06:45-Constructor 
+28/01/2015 12:06:45-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24115.wav|\\192.10.10.201\Recordings\Inbound\2\I_24116.wav|\\192.10.10.201\Recordings\Inbound\2\I_24117.wav|\\192.10.10.201\Recordings\Inbound\2\I_24118.wav|\\192.10.10.201\Recordings\Outbound\17\O_170639.wav|\\192.10.10.201\Recordings\Outbound\17\O_170639.wav|\\192.10.10.201\Recordings\Outbound\17\O_170640.wav|\\192.10.10.201\Recordings\Outbound\17\O_170640.wav|\\192.10.10.201\Recordings\Outbound\17\O_170642.wav|\\192.10.10.201\Recordings\Outbound\17\O_170642.wav|\\192.10.10.201\Recordings\Outbound\17\O_170644.wav
+28/01/2015 12:06:45-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:45-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:45-Processing Recordings . . . 
+28/01/2015 12:06:45-Number of recordings that going to be process: 11
+28/01/2015 12:06:45-Number of elements that going to be cut: 0
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24115.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24115.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24116.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24116.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24117.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24117.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24118.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24118.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170639.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170639.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170639.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170639.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170640.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170640.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170640.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170640.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170642.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170642.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170642.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170642.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170644.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170644.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Get Available disk space
+28/01/2015 12:06:45-Volume: D:\
+28/01/2015 12:06:45-Free space: 113769365504
+28/01/2015 12:06:45-Recibiendo peticion 128
+28/01/2015 12:06:45-Constructor 
+28/01/2015 12:06:45-Recordings string: \\192.10.10.201\Recordings\Outbound\17\O_170644.wav|\\192.10.10.201\Recordings\Outbound\17\O_170686.wav|\\192.10.10.201\Recordings\Outbound\17\O_170686.wav|\\192.10.10.201\Recordings\Outbound\17\O_170694.wav|\\192.10.10.201\Recordings\Outbound\17\O_170694.wav|\\192.10.10.201\Recordings\Outbound\17\O_170719.wav|\\192.10.10.201\Recordings\Outbound\17\O_170719.wav|\\192.10.10.201\Recordings\Outbound\17\O_170762.wav|\\192.10.10.201\Recordings\Outbound\17\O_170762.wav|\\192.10.10.201\Recordings\Inbound\2\I_24112.wav|\\192.10.10.201\Recordings\Outbound\17\O_170689.wav
+28/01/2015 12:06:45-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:45-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:45-Processing Recordings . . . 
+28/01/2015 12:06:45-Number of recordings that going to be process: 11
+28/01/2015 12:06:45-Number of elements that going to be cut: 0
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170644.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170644.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170686.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170686.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170686.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170686.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170694.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170694.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170694.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170694.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170719.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170719.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170719.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170719.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170762.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170762.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170762.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170762.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24112.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24112.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170689.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170689.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Get Available disk space
+28/01/2015 12:06:45-Volume: D:\
+28/01/2015 12:06:45-Free space: 113763356672
+28/01/2015 12:06:45-Recibiendo peticion 128
+28/01/2015 12:06:45-Constructor 
+28/01/2015 12:06:45-Recordings string: \\192.10.10.201\Recordings\Outbound\17\O_170689.wav|\\192.10.10.201\Recordings\Outbound\17\O_170689.wav|\\192.10.10.201\Recordings\Outbound\17\O_170692.wav|\\192.10.10.201\Recordings\Outbound\17\O_170692.wav|\\192.10.10.201\Recordings\Outbound\17\O_170692.wav|\\192.10.10.201\Recordings\Outbound\17\O_170741.wav|\\192.10.10.201\Recordings\Outbound\17\O_170741.wav|\\192.10.10.201\Recordings\Outbound\17\O_170741.wav
+28/01/2015 12:06:45-Repositories string: \\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings|\\192.10.10.201\Recordings
+28/01/2015 12:06:45-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:06:45-Processing Recordings . . . 
+28/01/2015 12:06:45-Number of recordings that going to be process: 8
+28/01/2015 12:06:45-Number of elements that going to be cut: 0
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170689.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170689.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170689.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170689.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170692.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170692.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170692.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170692.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170692.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170692.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170741.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170741.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170741.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170741.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Enter export without Export Profile.
+28/01/2015 12:06:45-Prepare recording without cut from mark.
+28/01/2015 12:06:45-Copy recording from \\192.10.10.201\Recordings\Outbound\17\O_170741.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\O_170741.wav.
+28/01/2015 12:06:45-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:06:45-Get Available disk space
+28/01/2015 12:06:45-Volume: D:\
+28/01/2015 12:06:45-Free space: 113761660928
+28/01/2015 12:06:45-Recibiendo peticion 128
+28/01/2015 12:06:45-Constructor 
+28/01/2015 12:06:45-Make recording zip
+28/01/2015 12:06:45-Write summary AVRSExportRecs.txt
+28/01/2015 12:06:49-The recordig zip process has finished
+28/01/2015 12:07:07-Iniciando LogIn
+28/01/2015 12:07:07-Logging of user: ctorres pass: E6188A440B706782B4AB93821E95D9C7
+28/01/2015 12:07:07-Loading Persistent Cats
+28/01/2015 12:07:07-Getting Session
+28/01/2015 12:07:07-Retrieving menu info
+28/01/2015 12:07:07-System.String[]
+28/01/2015 12:07:07-Adding Session id
+28/01/2015 12:07:07-done
+28/01/2015 12:07:27-Iniciando LogIn
+28/01/2015 12:07:27-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 12:07:27-Loading Persistent Cats
+28/01/2015 12:07:27-Getting Session
+28/01/2015 12:07:27-Retrieving menu info
+28/01/2015 12:07:27-System.String[]
+28/01/2015 12:07:27-Adding Session id
+28/01/2015 12:07:27-done
+28/01/2015 12:07:38-Recibiendo peticion 119
+28/01/2015 12:07:38-SupId 1
+28/01/2015 12:07:39-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 12:07:39-exec trsp_AdmGetPathsBackup 
+28/01/2015 12:07:39-exec trsp_GetEncryptValue 
+28/01/2015 12:07:53-Recibiendo peticion 144
+28/01/2015 12:07:53-Enters VerifyMarksToExport
+28/01/2015 12:07:53-Searching for marks
+28/01/2015 12:07:53-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24107, 1
+28/01/2015 12:07:53-No marks
+28/01/2015 12:07:58-Recibiendo peticion 128
+28/01/2015 12:07:58-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 12:07:58-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24107.wav
+28/01/2015 12:07:58-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 12:07:58-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:07:58-Processing Recordings . . . 
+28/01/2015 12:07:58-Number of recordings that going to be process: 1
+28/01/2015 12:07:58-Number of elements that going to be cut: 0
+28/01/2015 12:07:58-Enter export without Export Profile.
+28/01/2015 12:07:58-Prepare recording without cut from mark.
+28/01/2015 12:07:58-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24107.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24107.wav.
+28/01/2015 12:07:58-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:07:58-Primera vez------------------------------
+28/01/2015 12:07:58-Get Available disk space
+28/01/2015 12:07:58-Volume: D:\
+28/01/2015 12:07:58-Free space: 113869574144
+28/01/2015 12:07:58-Recibiendo peticion 128
+28/01/2015 12:07:58-Constructor 
+28/01/2015 12:07:58-Make recording zip
+28/01/2015 12:07:58-Write summary AVRSExportRecs.txt
+28/01/2015 12:07:58-The recordig zip process has finished
+28/01/2015 12:08:06-Iniciando LogIn
+28/01/2015 12:08:06-Logging of user: root pass: 55BEA0B8D7682CEB26F9140FAF9A69CD
+28/01/2015 12:08:06-Loading Persistent Cats
+28/01/2015 12:08:06-Getting Session
+28/01/2015 12:08:06-Retrieving menu info
+28/01/2015 12:08:07-System.String[]
+28/01/2015 12:08:07-Adding Session id
+28/01/2015 12:08:07-done
+28/01/2015 12:08:14-Recibiendo peticion 119
+28/01/2015 12:08:14-SupId 1
+28/01/2015 12:08:14-exec trsp_AdmGetRecordingsBackup 
+28/01/2015 12:08:14-exec trsp_AdmGetPathsBackup 
+28/01/2015 12:08:14-exec trsp_GetEncryptValue 
+28/01/2015 12:09:02-Recibiendo peticion 144
+28/01/2015 12:09:02-Enters VerifyMarksToExport
+28/01/2015 12:09:02-Searching for marks
+28/01/2015 12:09:02-SQLQuery to search if there is at least one mark: exec dbo.trsp_AdmVerifyMarksToExport 24106, 1
+28/01/2015 12:09:02-No marks
+28/01/2015 12:09:04-Recibiendo peticion 128
+28/01/2015 12:09:04-Errot to get session values Referencia a objeto no establecida como instancia de un objeto.
+28/01/2015 12:09:04-Recordings string: \\192.10.10.201\Recordings\Inbound\2\I_24106.wav
+28/01/2015 12:09:04-Repositories string: \\192.10.10.201\Recordings
+28/01/2015 12:09:04-SQLQuery to search Export Profiles configuration: exec dbo.trsp_AdmCheckExportProfile 1
+28/01/2015 12:09:04-Processing Recordings . . . 
+28/01/2015 12:09:04-Number of recordings that going to be process: 1
+28/01/2015 12:09:04-Number of elements that going to be cut: 0
+28/01/2015 12:09:04-Enter export without Export Profile.
+28/01/2015 12:09:04-Prepare recording without cut from mark.
+28/01/2015 12:09:04-Copy recording from \\192.10.10.201\Recordings\Inbound\2\I_24106.wav to D:\Centerware\Sites\CWAdminEngine\AVRSTemp\1\I_24106.wav.
+28/01/2015 12:09:04-exec trsp_AdmGetNetworkCredential '192.10.10.201'
+28/01/2015 12:09:05-Primera vez------------------------------
+28/01/2015 12:09:05-Get Available disk space
+28/01/2015 12:09:05-Volume: D:\
+28/01/2015 12:09:05-Free space: 113867272192
+28/01/2015 12:09:05-Recibiendo peticion 128
+28/01/2015 12:09:05-Constructor 
+28/01/2015 12:09:05-Make recording zip
+28/01/2015 12:09:05-Write summary AVRSExportRecs.txt
+28/01/2015 12:09:05-The recordig zip process has finished
